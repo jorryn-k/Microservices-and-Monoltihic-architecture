@@ -24,3 +24,10 @@ Monolithic Architecture/ Macroservices also known as Monolith is a software desi
 
    Managing seven different services for one tool was too complex for users.
 
+
+KIRABO JORRYN EDNA.T.
+B30098
+S24B23/041
+
+   
+
